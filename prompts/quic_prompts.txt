@@ -1,0 +1,5 @@
+1. How to capture QUIC (HTTP/3) traffic in Wireshark?
+2. How to find the Initial QUIC handshake and ClientHello?
+3. How to check which QUIC version is used?
+4. How to identify the first 0-RTT or 1-RTT packet?
+5. How to see the first HTTP/3 application data and its difference from HTTP over TCP?
