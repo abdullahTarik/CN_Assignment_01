@@ -9,9 +9,14 @@
 ## Group Information
 - **Class:** BSAIF23-Green  
 - **Group Members:**
-  - Name: [Muhammad Abdullah] — Reg#: [ B23F0001A1006 ]
-  - Name: [Husnain Sajid] — Reg#: [ B23F0001A1007 ]
+  - Name: [Muhammad Abdullah] 
+  - Reg#: [ B23F0001A1006 ]
 
+  - Name: [Husnain Sajid] 
+  — Reg#: [ B23F0001A1007 ]
+
+  - Name: [Usba khan] 
+  - Reg#: [ B23F0922AI190 ]
 ---
 
 ## Repository Structure
