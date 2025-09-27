@@ -1,4 +1,4 @@
-# HTTP Analysis – CN Assignment 01
+# HTTP Analysis – CN Assignment no 1
 
 ## Q1. What is the name of website?
 The website accessed is identified by the **Host header** in the GET request:  
@@ -46,5 +46,5 @@ The connection is **persistent**, because:
 - The request includes the header `Connection: keep-alive`.  
 - Multiple HTTP responses (HTML + CSS) were exchanged over the same TCP connection without reconnecting.  
 
-**Conclusion:** The HTTP connection is persistent.
+**Conclusion:** The HTTP connection is peristent.
 
