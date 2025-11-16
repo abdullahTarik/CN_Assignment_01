@@ -8,7 +8,6 @@ _Seamless Recognition, Effortless Attendance, Limitless Possibilities_
 [![GitHub language count](https://img.shields.io/github/languages/count/username/repo?label=languages)](https://github.com/username/repo)
 [![Top Language](https://img.shields.io/github/languages/top/username/repo)](https://github.com/username/repo)
 
----
 
 ## Built with the tools and technologies:
 
@@ -26,7 +25,6 @@ _Seamless Recognition, Effortless Attendance, Limitless Possibilities_
 ![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 
----
 
 </div>
 
