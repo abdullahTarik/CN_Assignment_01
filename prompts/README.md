@@ -2,17 +2,17 @@
 
 # OAK-D-FACE-RECOGNITION-ATTENDANCE
 
-<br/><br/>
+<br/>
 
 _Seamless Recognition, Effortless Attendance, Limitless Possibilities_
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/github/last-commit/username/repo?label=last%20commit" />
 <img src="https://img.shields.io/badge/python-56.8%25-blue" />
 <img src="https://img.shields.io/badge/languages-4-blue" />
 
-<br/><br/>
+<br/>
 
 _Built with the tools and technologies:_
 
