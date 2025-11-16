@@ -2,31 +2,61 @@
 
 # OAK-D-FACE-RECOGNITION-ATTENDANCE
 
+<br/>
+<br/>
+
 _Seamless Recognition, Effortless Attendance, Limitless Possibilities_
 
+<br/>
+<br/>
 
-
-    
 [![Last Commit](https://img.shields.io/github/last-commit/username/repo?label=last%20commit)](https://github.com/username/repo)
+&nbsp;&nbsp;&nbsp;
 [![GitHub language count](https://img.shields.io/github/languages/count/username/repo?label=languages)](https://github.com/username/repo)
+&nbsp;&nbsp;&nbsp;
 [![Top Language](https://img.shields.io/github/languages/top/username/repo)](https://github.com/username/repo)
 
+<br/>
+<br/>
+
+
+<br/>
+<br/>
 
 ## Built with the tools and technologies:
 
+<br/>
+<br/>
+
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white)
+&nbsp;&nbsp;
 ![JSON](https://img.shields.io/badge/JSON-orange?logo=json&logoColor=white)
+&nbsp;&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+&nbsp;&nbsp;
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+&nbsp;&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-FF6F00?logo=scikitlearn&logoColor=white)
+&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-<br/> ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+<br/>
+<br/>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+&nbsp;&nbsp;
 ![XML](https://img.shields.io/badge/XML-0060A0?logo=xml&logoColor=white)
+&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+&nbsp;&nbsp;
 ![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)
+&nbsp;&nbsp;
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+
+<br/>
+<br/>
 
 
 </div>
