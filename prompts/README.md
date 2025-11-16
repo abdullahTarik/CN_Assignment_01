@@ -11,10 +11,10 @@ _Seamless Recognition, Effortless Attendance, Limitless Possibilities_
 <!-- Dynamic GitHub Badges -->
 <a href="https://github.com/abdullahTarik/OAK-D-face-recognition-attendance">
     <img src="https://img.shields.io/github/last-commit/abdullahTarik/OAK-D-face-recognition-attendance?label=last%20commit" />
-</a>
+
 <a href="https://github.com/abdullahTarik/OAK-D-face-recognition-attendance">
     <img src="https://img.shields.io/github/languages/top/abdullahTarik/OAK-D-face-recognition-attendance?label=python" />
-</a>
+
 <a href="https://github.com/abdullahTarik/OAK-D-face-recognition-attendance">
     <img src="https://img.shields.io/github/languages/count/abdullahTarik/OAK-D-face-recognition-attendance?label=languages" />
 </a>
