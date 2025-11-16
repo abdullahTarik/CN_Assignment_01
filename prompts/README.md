@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # OAK-D-FACE-RECOGNITION-ATTENDANCE
 
@@ -19,7 +19,7 @@ _Seamless Recognition, Effortless Attendance, Limitless Possibilities_
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-FF6F00?logo=scikitlearn&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+<br/> ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-0060A0?logo=xml&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -28,7 +28,7 @@ _Seamless Recognition, Effortless Attendance, Limitless Possibilities_
 
 ---
 
-</center>
+</div>
 
 # 🌐 Smart IoT Device Communication Protocol (SIoT-P)
 # CN Assignment 02 – Computer Networks
