@@ -23,7 +23,7 @@ _Seamless Recognition, Effortless Attendance, Limitless Possibilities_
 <br/>
 <br/>
 
-## Built with the tools and technologies:
+_Built with the tools and technologies:_
 
 <br/>
 <br/>
