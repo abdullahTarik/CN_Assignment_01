@@ -4,6 +4,9 @@
 
 _Seamless Recognition, Effortless Attendance, Limitless Possibilities_
 
+
+
+    
 [![Last Commit](https://img.shields.io/github/last-commit/username/repo?label=last%20commit)](https://github.com/username/repo)
 [![GitHub language count](https://img.shields.io/github/languages/count/username/repo?label=languages)](https://github.com/username/repo)
 [![Top Language](https://img.shields.io/github/languages/top/username/repo)](https://github.com/username/repo)
